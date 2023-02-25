@@ -2,7 +2,7 @@
 
 <h2>HOW TO USE</h2>
 
-const config = { 
+const config = { <br>
     fromEmail : "ins*****ub@gmail.com", // your email
     password : "hcds****dfjh", // your email password
     toEmail : "v****z@gmail.com", //send email to
